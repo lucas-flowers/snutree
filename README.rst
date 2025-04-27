@@ -2,8 +2,7 @@
 DEPRECATED
 ==========
 
-A rewrite can be found in [snutree2](https://github.com/lucas-flowers/snutree2).
-
+A rewrite can be found at https://github.com/lucas-flowers/snutree2.
 
 =======
 snutree
